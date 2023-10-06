@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **on enhanced coding convention**
 
-- 👨‍💻 All of my projects are available at [www.ashadashraf.com](www.ashadashraf.com)
+- 👨‍💻 Visit my portfolio at [www.ashadashraf.com](https://www.ashadashraf.com/)
 
 - 💬 Ask me about **django, react, rest api, sql.**
 
