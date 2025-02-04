@@ -1,32 +1,60 @@
 <h1 align="center">Hi 👋, I'm ASHAD K A </h1>
-<h3 align="center">A passionate Python Full Stack Developer from India</h3>
+<h3 align="center">A Passionate Python Full Stack Developer from India</h3>
 
-- 🔭 I’m currently working on **real estate listing project**
+💡 **About Me**  
+- 🔭 I’m currently working as a **Full Stack Developer**  
+- 🌱 Exploring **advanced Django async processing, task queues (Django Q, Redis), and real-time chat (Socket.IO, WebSockets)**  
+- 🎯 Strong expertise in **Django, Django Rest Framework (DRF), React.js, PostgreSQL, MySQL, Firebase, and Redis**  
+- 🏗️ Built and optimized **scalable APIs, real-time chat applications, and marketplace platforms**  
+- 👨‍💻 Visit my portfolio: [www.ashadashraf.com](https://www.ashadashraf.com/)  
+- 💬 Ask me about **Django, FastAPI, React, WebSockets, PostgreSQL, Redis, and Async Programming**  
+- 📫 Reach me at **ashadashraf10@gmail.com**  
+- ⚡ Fun fact: **I am a good listener and love solving complex backend challenges!**  
 
-- 🌱 I’m currently learning **on enhanced coding convention**
+---
 
-- 👨‍💻 Visit my portfolio at [www.ashadashraf.com](https://www.ashadashraf.com/)
+## 🚀 **Tech Stack & Tools**
+**💻 Backend:**  
+- Django | Django Rest Framework (DRF) | FastAPI | Kotlin
+- PostgreSQL | MySQL | MongoDB | Firebase Firestore  
+- Redis | Django Q  
+- WebSockets | Socket.IO | ASGI | Daphne  
+- REST APIs | Async Views | Android Studio
 
-- 💬 Ask me about **django, react, rest api, sql.**
+**🌐 Frontend:**  
+- React.js | Vue.js | Redux  
+- Tailwind CSS | Bootstrap  
 
-- 📫 How to reach me **ashadashraf10@gmail.com**
+**📦 DevOps & Tools:**  
+- Docker | Nginx | Gunicorn  
+- AWS (EC2, S3, RDS) | Azure Services  
+- GitHub | GitHub Actions | CI/CD Pipelines  
 
-- ⚡ Fun fact **I am a good listener**
+---
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## 📊 **Recent Projects**
+### 🔹 **Real Estate Listing Platform**  
+- Built a **React & Django-based** property listing platform  
+- Integrated **map views, video calls, and chat features**  
+- Implemented **scalable API design** and **complex database queries**  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ashad78477296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashad78477296" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashadashraf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashadashraf" height="30" width="40" /></a>
-<a href="https://instagram.com/ashad_assu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashad_assu/" height="30" width="40" /></a>
-<a href="https://medium.com/@ashadassu7097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ashadassu7097" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ashadashraf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashadashraf/" height="30" width="40" /></a>
-</p>
+### 🔹 **E-Commerce API System**  
+- Developed an **asynchronous order processing system** using Django & Redis  
+- Implemented **real-time notifications & payment integration**  
+- Designed **custom order tracking & wallet-based transactions**  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+### 🔹 **Real-Time Chat System**  
+- Built **Socket.IO-based chat with Django & Redis**  
+- Supported **file sharing, notifications, and user activity tracking**  
+- Optimized **event-based architecture** for better performance  
+
+---
+
+## 📞 **Let's Connect!**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ashadashraf-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ashadashraf)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-ashadashraf.com-green?style=flat-square&logo=web)](https://www.ashadashraf.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-ashadashraf-black?style=flat-square&logo=github)](https://github.com/ashadashraf)  
+
+---
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashadashraf&show_icons=true&locale=en&layout=compact" alt="ashadashraf" /></p>
